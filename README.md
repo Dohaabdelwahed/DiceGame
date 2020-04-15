@@ -1,1 +1,1 @@
-# dicegame
+src="index.html"
